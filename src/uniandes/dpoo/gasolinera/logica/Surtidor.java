@@ -3,7 +3,6 @@ package uniandes.dpoo.gasolinera.logica;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-import static java.lang.Math.abs;
 
 /**
  * Esta clase representa a un surtidor de gasolina en la gasolinera.
@@ -55,8 +54,7 @@ public class Surtidor
      */
     public double getGalonesVendidos( String nombreTipoGasolina )
     {
-    	//revisar si esto se puede hacer o si me toca usar ifs
-        return abs(galonesVendidos.get( nombreTipoGasolina ));
+        return Math.abs(galonesVendidos.get( nombreTipoGasolina ));
     }
 
     /**
