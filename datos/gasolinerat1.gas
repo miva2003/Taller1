@@ -1,0 +1,13 @@
+tipo:Prime:32000:200.0
+tipo:Extra:10000:2000.0
+tipo:Corriente:15000:1000.0
+tipo:G:5500:10000.0
+surtidor:Sofia:Prime:0.0:Extra:0.0:Corriente:0.0:G:0.0
+surtidor:Sara:Prime:0.0:Extra:0.0:Corriente:0.0:G:0.0
+surtidor:Felipe:Prime:0.0:Extra:0.0:Corriente:0.0:G:0.0
+surtidor:Mariana:Prime:0.0:Extra:0.0:Corriente:0.0:G:0.0
+empleado:Felipe:0
+empleado:Mariana:0
+empleado:Sofia:0
+empleado:Sara:0
+empleado:Carlos:0
